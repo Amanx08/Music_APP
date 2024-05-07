@@ -12,12 +12,12 @@ let songs = [
     { songName: "Salaar (2023)", filePath: "./Salaar.mp3", coverPath: "./1.jpg" },
     { songName: "Cielo - Huma-Huma", filePath: "./2.mp3", coverPath: "./2.jpg" },
     { songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "./3.mp3", coverPath: "./3.jpg" },
-    { songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "./4.mp3", coverPath: "/4.jpg" },
-    { songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "./5.mp3", coverPath: "/5.jpg" },
-    { songName: "Rabba - Salam-e-Ishq", filePath: "./6.mp3", coverPath: "6.jpg" },
-    { songName: "Sakhiyaan - Salam-e-Ishq", filePath: "./7.mp3", coverPath: "/7.jpg" },
-    { songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "./8.mp3", coverPath: "/9.jpg" },
-    { songName: "Na Jaana - Salam-e-Ishq", filePath: "./9.mp3", coverPath: "/10.jpg" },
+    { songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "./4.mp3", coverPath: "./4.jpg" },
+    { songName: "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", filePath: "./5.mp3", coverPath: "./5.jpg" },
+    { songName: "Rabba - Salam-e-Ishq", filePath: "./6.mp3", coverPath: "./6.jpg" },
+    { songName: "Sakhiyaan - Salam-e-Ishq", filePath: "./7.mp3", coverPath: "./7.jpg" },
+    { songName: "Tumhari Kasam - Salam-e-Ishq", filePath: "./8.mp3", coverPath: "./9.jpg" },
+    { songName: "Na Jaana - Salam-e-Ishq", filePath: "./9.mp3", coverPath: "./10.jpg" },
 ]
 
 
